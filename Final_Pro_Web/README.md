@@ -7,9 +7,9 @@
 | '/' | GET | Pagina de inicio |
 | '/home' | GET | pagina principal |
 | '/gallery' | GET | Galeria de imagenes |
-| '/activities' | GET | Galeria de imagenes |
-| '/aboutus' | GET | Galeria de imagenes |
-| '/contacto' | GET | Galeria de imagenes |
-| '/404' | USE | Galeria de imagenes |
+| '/activities' | GET | Actividades impartidas |
+| '/aboutus' | GET | Sobre nosotros |
+| '/contacto' | GET | Formulario |
+| '/404' | USE | En caso de no existir|
 
 #Requerimientos
